@@ -24,7 +24,7 @@ Install Python dependencies:
 ```bash
 pip install opencv-python mediapipe pyautogui
 
-###Run the Script
+#Run the Script
 python main.py
 Make sure your webcam is working and accessible.
 
