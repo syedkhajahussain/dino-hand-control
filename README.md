@@ -1,4 +1,4 @@
-# dino-hand-control
+# Dino Hand Control
 
 Control the Google Chrome Dino game using your hand gestures with Python, OpenCV, and MediaPipe!
 
