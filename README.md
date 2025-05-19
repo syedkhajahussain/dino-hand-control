@@ -43,3 +43,8 @@ Press q to quit the program.
 The script uses MediaPipe to detect hand landmarks.
 
 If 3 or more fingers are folded (closed fist), it simulates a space key press using pyautogui.
+📷 Screenshot
+
+📄 License
+This project is open source and available under the MIT License.
+Happy Jumping! 🖐️🦖
